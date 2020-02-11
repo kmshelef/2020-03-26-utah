@@ -151,6 +151,7 @@ special instructions.
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
+  <li>Lactation rooms are available.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
