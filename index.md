@@ -150,7 +150,7 @@ special instructions.
 </p>
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>Accessible and all-gender restrooms are available.</li>
   <li>Lactation rooms are available.</li>
 </ul>
 <p>
